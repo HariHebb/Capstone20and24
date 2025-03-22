@@ -33,6 +33,17 @@ Key observations:
 - More won opportunities than lost in the sample
 - Sector bias towards retail, medical, and tech/software industries
 
+## Countplots for Categorical Variables
+![image](https://github.com/user-attachments/assets/fe15d737-5daf-4395-9f21-eddbbb9296dc)
+![image](https://github.com/user-attachments/assets/ab92726b-347f-4d57-a8d5-27d8b97dfef0)
+![image](https://github.com/user-attachments/assets/03e211ae-2052-46aa-ba33-a4084fb4d6f6)
+![image](https://github.com/user-attachments/assets/1dceae94-72f9-40ff-bb90-8402383e9b63)
+
+
+
+
+
+
 ## Data Preprocessing
 
 - Filtered irrelevant data and removed in-flight opportunities
