@@ -10,7 +10,7 @@ In today's competitive business landscape, sales professionals face significant 
 
 Our solution leverages a Kaggle Sales CRM dataset [https://www.kaggle.com/code/amr7ac/crm-sales-opportunities-analysis/input] to build a classification model that:
 
-1. Identifies and tags "Won Opportunity" prospects
+1. Identifies and tags "Won" Opportunities
 2. Provides sales teams with a curated list of high-conversion potential leads
 3. Eliminates guesswork and random prospecting
 
