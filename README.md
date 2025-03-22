@@ -18,6 +18,7 @@ Our solution leverages a Kaggle Sales CRM dataset [https://www.kaggle.com/code/a
 
 - Link to the python notebook [https://github.com/HariHebb/Capstone20and24/blob/main/Capstone_EDA_Plus_Model.ipynb]
 - **Link to the document with detailed analysis which help arrive at the concise documentation [https://docs.google.com/document/d/1CFRjP5TzvYRQmJQ6p6OdyZIz7oDy6VbXJYdO_nReqRI/edit?tab=t.0]**
+- Link to git  [https://github.com/HariHebb/Capstone20and24.git]
 
 ## Dataset Description
 
