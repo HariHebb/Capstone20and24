@@ -66,6 +66,8 @@ Multiple classification models were developed and evaluated:
 2. K-Nearest Neighbors (KNN)
 3. Decision Tree
 4. Support Vector Machine (SVM)
+  
+
 
 ### Cross-validation and Hyperparameter Tuning
 
@@ -78,7 +80,23 @@ Primary metrics used: accuracy, precision, recall, and F1 score
 
 Rationale: These metrics provide a comprehensive view of model performance, balancing the ability to correctly identify both positive and negative cases.
 
+### Model Performance (Before Hyperparameter Tuning)
+ 
+ The plots showing the performance of the model before hyperparameter tuning
+
+![image](https://github.com/user-attachments/assets/4e69a683-0b3f-4e1c-b694-f38bae8edc3d)
+
+- KNN is fastest (0.033s), while SVM is slowest (1.936s); Decision Tree achieves 100% accuracy but may be overfitting
+- All models show identical Precision (92.42%) and Recall (99.19%), with an F1 Score of 95.69%, indicating strong and balanced performance.
+- Logistic Regression offers a good balance of speed (94.49% test accuracy) and performance, making it a practical choice alongside KNN for this use case.
+
 ### Model Performance (After Hyperparameter Tuning)
+
+ The plots showing the performance of the model after hyperparameter tuning 
+
+
+![image](https://github.com/user-attachments/assets/154c70eb-0e79-4514-a7c7-0b460267abdf)
+
 
 - KNN: Fastest (1.5 seconds), lowest precision (80.9%) and recall (88.3%)
 - Decision Tree: 100% accuracy (likely overfitting)
