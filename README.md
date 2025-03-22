@@ -37,13 +37,14 @@ Key observations:
 - Regional bias towards US customer data (>85%)
   ![image](https://github.com/user-attachments/assets/6523c048-a7e8-4729-a8ff-cb83e6eed2cd)
 - More won opportunities than lost in the sample
+![image](https://github.com/user-attachments/assets/f172682e-60bf-4b33-8317-ddef9532b659)
 - Sector bias towards retail, medical, and tech/software industries
 - No strong correlation between numerical variables and the target variable . Value and days deal opened have the highest values with 0.49 and 0.12
 
 ## Supporting Countplots for Categorical Variables
 ![image](https://github.com/user-attachments/assets/8bc0766d-3842-4af2-a1a8-fcb619174b00)
 ![image](https://github.com/user-attachments/assets/eab851ec-a0df-45c2-b7db-5ef66f906922)
-![image](https://github.com/user-attachments/assets/f172682e-60bf-4b33-8317-ddef9532b659)
+
 ![image](https://github.com/user-attachments/assets/a29bfacd-4527-4a83-9909-b22252397b8c)
 
 ![image](https://github.com/user-attachments/assets/d3ffc641-32fb-46d5-8d0f-d0ccad7edd97)
