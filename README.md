@@ -15,9 +15,9 @@ Our solution leverages a Kaggle Sales CRM dataset [https://www.kaggle.com/code/a
 3. Eliminates guesswork and random prospecting
 
 ## Key Links
-Link to the python notebook [https://github.com/HariHebb/Capstone20and24/blob/main/Capstone_EDA_Plus_Model.ipynb]
-Link to raw document with initial analysis which help arrive at the  concise documentation [https://docs.google.com/document/d/1CFRjP5TzvYRQmJQ6p6OdyZIz7oDy6VbXJYdO_nReqRI/edit?tab=t.0]
 
+- Link to the python notebook [https://github.com/HariHebb/Capstone20and24/blob/main/Capstone_EDA_Plus_Model.ipynb]
+- Link to raw document with initial analysis which help arrive at the  concise documentation [https://docs.google.com/document/d/1CFRjP5TzvYRQmJQ6p6OdyZIz7oDy6VbXJYdO_nReqRI/edit?tab=t.0]
 
 ## Dataset Description
 
