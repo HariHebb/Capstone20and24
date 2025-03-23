@@ -118,7 +118,7 @@ Rationale: These metrics provide a comprehensive view of model performance, bala
 1. The classification model successfully identifies high-potential sales opportunities
 2. Logistic Regression and SVM models offer the best performance for this dataset
 3. The model can significantly improve sales efficiency by prioritizing leads with higher conversion likelihood
-4. Regional and sector biases in the dataset should be considered when applying the model to new data
+4. Regional, sector & product series biases in the dataset should be considered when applying the model to new data
 
 ## Next Steps and Recommendations
 
