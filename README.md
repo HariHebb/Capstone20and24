@@ -7,12 +7,14 @@ In today's competitive business landscape, sales professionals face significant 
 - Increasing quotas and tighter deadlines
 - Complex CRM systems
 - Overwhelming number of prospects with no clear conversion path
+- A lot of time spent nurturing low propensity customers who would not convert, thus impacting their ability to meet their quotas and forecasts
 
 Our solution leverages a Kaggle Sales CRM dataset [https://www.kaggle.com/code/amr7ac/crm-sales-opportunities-analysis/input] to build a classification model that:
 
 1. Identifies and tags "Won" Opportunities
 2. Provides sales teams with a curated list of high-conversion potential leads
 3. Eliminates guesswork and random prospecting
+4. Helps Sales folks focus on the opportunities which have higher propensity to convert into a deal
 
 ## Key Links
 
